@@ -10,12 +10,13 @@
 5. [Licensing, Authors and Acknowledgements](#Licensing)
 
 ###  Installation
-<a name="installation"></a>
 ------------------------------------------------------------------------------
+<a name="installation"></a>
 
 Libraries used: pandas, numpy, sklearn, imbalanced-learn, matplotlib, seaborn
 
 ### Project Motivation
+------------------------------------------------------------------------------
 <a name="ProjectMotivation"></a>
 
 Data includes features, response variable showing if the customer purchases the
@@ -40,6 +41,7 @@ IRR = (purchase in treatment / allcustomers in treatment) -
 		(purchase in control / all customers in control)
 
 ### File Description
+------------------------------------------------------------------------------
 <a name="FileDescription"></a>
 
 Files in the folder;
@@ -51,6 +53,7 @@ starbucks.ipynb - includes data exploration, includes strategy developed and
 .png files - visualizaions
 
 ### Results
+------------------------------------------------------------------------------
 <a name="Results"></a>
 
 1. Machine learning models cannot perform well even with tuned hyperparameters
@@ -68,6 +71,7 @@ The optimal value is between 0.49-0.5. For the rest of the work, 0.5 is used.
 net incremental revenue of $398.4.
 
 ### Licensing, Authors and Acknowledgements
+------------------------------------------------------------------------------
 <a name="Licensing"></a>
 
 MIT License
