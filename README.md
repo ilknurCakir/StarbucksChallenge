@@ -2,10 +2,13 @@
 
 
 Table of Contents
-1. Installation
-2. Project Motivation
-3. File Descriptions
-4. Results
-5. Licensing, Authors and Acknowledgements
+1. [blue_text](#Installation)
+2. [blue_text]Project Motivation
+3. [blue_text]File Descriptions
+4. [blue_text]Results
+5. [blue_text]Licensing, Authors and Acknowledgements
 
-Installation
+###  Installation
+<a name="installation"></a>
+
+
