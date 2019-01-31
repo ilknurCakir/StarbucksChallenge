@@ -1,7 +1,8 @@
 # StarbucksChallenge
 
 
-Table of Contents
+#### Table of Contents
+
 1. [Installation](#Installation)
 2. [Project Motivation](#ProjectMotivation)
 3. [File Descriptions](#FileDescription)
@@ -10,6 +11,7 @@ Table of Contents
 
 ###  Installation
 <a name="installation"></a>
+------------------------------------------------------------------------------
 
 Libraries used: pandas, numpy, sklearn, imbalanced-learn, matplotlib, seaborn
 
